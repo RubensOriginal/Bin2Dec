@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap');
+
+body {
+    background-color: rgb(235, 231, 231);
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.redBorder {
+    border-color: red !important;
+    color: red;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.calculator {
+    text-align: center;
+}
+
+label {
+    font-size: 14pt;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+}
+
+input {
+    margin: 10px 0;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-size: 14pt;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: 1px black solid;
+    background-color: rgb(235, 231, 231);
+    color: black;
+    text-align: center;
+}
